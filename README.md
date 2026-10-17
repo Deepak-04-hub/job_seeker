@@ -203,7 +203,7 @@ Ensure environment variables are correctly set in production.
 
 ## 👤 Author
 
-**Shreyansh Kaushal**
+**Deepak Meghwal**
 B.Tech Student | Full‑Stack Developer
 
 ---
