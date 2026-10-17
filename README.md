@@ -1,4 +1,4 @@
-# Job Portal Application
+# Job Seeker Application
 
 A full‑stack **Job Portal web application** built with **MERN stack + Clerk authentication**. The platform allows users to securely authenticate, browse jobs, and manage job‑related data with a modern React (Vite) frontend and a scalable Node.js + Express backend.
 
